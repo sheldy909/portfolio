@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio",
+  "short_name": "Portfolio",
+  "description": "My portfolio website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
